@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/setWallPaper" android:title="Set as Wallpaper"/>
+    <item android:id="@+id/Saveas" android:title="Save as"/>
+    <item android:id="@+id/share" android:title="Share Via"/>
+</menu>
